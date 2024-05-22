@@ -72,7 +72,7 @@ console.log(window.variables);
 
 ## 📝 Instrucciones
 
-Revisa este video con las instrucciones para que entiendas mejor el ejercicio: https://youtu.be/gaVm8eyCqlM
+Revisa este video con las instrucciones para que entiendas mejor el ejercicio: run start
 
 1. Lee y comprende la función `render` y el valor de la variable `variables` que recibe.
 
